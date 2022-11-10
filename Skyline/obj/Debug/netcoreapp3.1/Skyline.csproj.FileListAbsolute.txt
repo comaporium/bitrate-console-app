@@ -1,0 +1,14 @@
+C:\Users\ricci\source\repos\Skyline\Skyline\bin\Debug\netcoreapp3.1\Skyline.exe
+C:\Users\ricci\source\repos\Skyline\Skyline\bin\Debug\netcoreapp3.1\Skyline.deps.json
+C:\Users\ricci\source\repos\Skyline\Skyline\bin\Debug\netcoreapp3.1\Skyline.runtimeconfig.json
+C:\Users\ricci\source\repos\Skyline\Skyline\bin\Debug\netcoreapp3.1\Skyline.runtimeconfig.dev.json
+C:\Users\ricci\source\repos\Skyline\Skyline\bin\Debug\netcoreapp3.1\Skyline.dll
+C:\Users\ricci\source\repos\Skyline\Skyline\bin\Debug\netcoreapp3.1\Skyline.pdb
+C:\Users\ricci\source\repos\Skyline\Skyline\obj\Debug\netcoreapp3.1\Skyline.csproj.AssemblyReference.cache
+C:\Users\ricci\source\repos\Skyline\Skyline\obj\Debug\netcoreapp3.1\Skyline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricci\source\repos\Skyline\Skyline\obj\Debug\netcoreapp3.1\Skyline.AssemblyInfoInputs.cache
+C:\Users\ricci\source\repos\Skyline\Skyline\obj\Debug\netcoreapp3.1\Skyline.AssemblyInfo.cs
+C:\Users\ricci\source\repos\Skyline\Skyline\obj\Debug\netcoreapp3.1\Skyline.csproj.CoreCompileInputs.cache
+C:\Users\ricci\source\repos\Skyline\Skyline\obj\Debug\netcoreapp3.1\Skyline.dll
+C:\Users\ricci\source\repos\Skyline\Skyline\obj\Debug\netcoreapp3.1\Skyline.pdb
+C:\Users\ricci\source\repos\Skyline\Skyline\obj\Debug\netcoreapp3.1\Skyline.genruntimeconfig.cache
